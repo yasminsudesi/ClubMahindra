@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ClubMahindra</string>
+    <string name="title_activity_login">Login</string>
+    <string name="campaign_detail">Campaign Details</string>
+    <string name="branch">Branch</string>
+</resources>
